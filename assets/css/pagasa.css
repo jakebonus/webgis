@@ -1,0 +1,203 @@
+.container-fluid {
+  padding: 0 10px
+}
+
+#brgy-list {
+	padding: 10px 5px 10px 5px;
+}
+
+.title {
+    font-size: 17px !important;
+    padding-bottom: 0 !important;
+    margin-top: 10px;
+    font-weight: 900;
+    color: #000;
+}
+
+.btn-mapcenter {
+	cursor: pointer;
+}
+
+.btn-mapcenter i {
+	font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 24px;
+}
+
+.btn-mapcenter .bg-info {
+    background-color: #f45749!important;
+}
+
+.btn-rainreload {
+	border-radius: 2em;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,.25);
+    background: #d80b1b;
+    padding: 0 1em;
+    line-height: 2.125em;
+    height: 2.125em;
+    color: #fff;
+    display: block;
+    position: relative;
+    border: 0;
+    top: 28px;
+    right: 372px;
+    font-size: 16px;
+    position: absolute;
+}
+
+.img-slide {
+	background-repeat: no-repeat;
+    height: calc(100vh - 125px);
+    background-size: cover;
+    background-position: top left;
+	width:100%;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: #f00;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 3px;
+}
+
+.txt-source {
+	background-color: rgba(0, 0, 5, 0.6);
+    position: absolute;
+    z-index: 1;
+    left: 18px;
+    top: 12px;
+    font-size: 12px;
+    padding: 1px 8px;
+    border-radius: 2px;
+    color: #fff;
+    font-weight: 100;
+}
+
+body:not(.page-index) {
+  padding-top: 0 !important
+}
+
+#evacuationmap .row {
+	margin: 0;
+}
+
+#windforecast,
+#traffic {
+	position: relative;
+	margin: 0 -10px;
+}
+
+#traffic #traffic-map {
+  height: calc(100vh - 123px) !important
+}
+
+#windforecast .col-12, #windforecast .card-body {
+  padding: 0
+}
+
+#windforecast .card {
+  margin-bottom: 0
+}
+
+#windforecast .siteframe-index,
+#windforecast iframe { 
+  width: 100%; 
+  border: 0;
+  height: calc(100vh - 129px) !important;
+  top: 3px;
+  position: relative
+}
+
+#evacmap,
+#satellite,
+#pagasatrack,
+#satellitenoaa, 
+#traffic,
+#evacuationmap,
+#rainforecast {
+	margin: 0 -15px;
+    position: relative;
+    height: calc(100vh - 124px) !important;
+}
+
+#traffic iframe {
+	width: 100%;
+    border: 0;
+    height: calc(100vh - 123px) !important;
+    top: 0;
+    position: absolute;
+}
+
+.w3-content.w3-section {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+#iframe2 {
+	width: 100%;
+    border: 0;
+    height: calc(100vh - 123px) !important;
+    top: 0;
+    position: absolute;
+}
+
+#iframe1 {
+	width: 100%;
+    border: 0;
+    height: calc(100vh + 41px) !important;
+    top: -164px;
+    position: absolute;
+}
+
+#ranforecast iframe, 
+#evacuationmap iframe {
+    width: 100%;
+    border: 0;
+    height: calc(100vh + 41px) !important;
+    top: -164px;
+    position: absolute;
+}
+#windforecast .header-main-headline {
+  top: 111px !important;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  display: none
+}
+
+#windforecast #ad-index-bottom, 
+#windforecast #app .horizoncontrol__next, 
+#windforecast #app .horizoncontrol__previous {
+  display: none !important
+}
+
+#windforecast #app .horizoncontrol {
+  width: calc(100% - 80px);
+  top: 52px
+}
+
+#windforecast #app .site-header {
+  display: none
+}
+
+#windforecast #app #mapconfig {
+  opacity: 0
+}
+
+#windforecast .col-4, #windforecast .col-8 {
+  padding: 0
+}
+
+#windforecast .col-4 {
+  flex: 0 0 27.33333%;
+  max-width: 27.33333%
+}
+
+#windforecast .col-8 {
+  flex: 0 0 72.66667%;
+  max-width: 72.66667%
+}

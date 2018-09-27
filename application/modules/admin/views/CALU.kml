@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SELECT" id="SELECT">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="PIN" type="string"></SimpleField>
+	<SimpleField name="area" type="string"></SimpleField>
+	<SimpleField name="Id" type="string"></SimpleField>
+	<SimpleField name="SEC" type="string"></SimpleField>
+	<SimpleField name="FID" type="string"></SimpleField>
+	<SimpleField name="class" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>SELECT</name>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">02</SimpleData>
+		<SimpleData name="area">1953</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">027</SimpleData>
+		<SimpleData name="FID">0</SimpleData>
+		<SimpleData name="class">agri</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.651521650566,15.0884710911062 120.651748593366,15.0882153856689 120.651759314656,15.0882263109018 120.652120264796,15.088594126267 120.652103150711,15.0886095437776 120.651898080921,15.0887942840324 120.651521650566,15.0884710911062</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">15</SimpleData>
+		<SimpleData name="area">10530</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">028</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="class">agri</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.649057361559,15.0850415809022 120.649084661992,15.0850726304294 120.649109616018,15.0851010113147 120.649132223636,15.0851267235585 120.649157055314,15.0851549652756 120.64918050362,15.0851816336401 120.649205580033,15.0852101536829 120.649232276627,15.0852405163892 120.649254823093,15.0852661590423 120.649279540367,15.0852942706001 120.649303829381,15.0853218950796 120.649327759244,15.0853491110781 120.649353894953,15.0853788358289 120.649390131683,15.085420048688 120.64945139705,15.0854897271437 120.649452310752,15.0854907663169 120.649407396647,15.0855440937843 120.649239508447,15.0857434306447 120.649043033096,15.0859767088676 120.648788732268,15.0862786430444 120.648149510669,15.0860730717377 120.648525445608,15.0853351272562 120.649022448181,15.0850018729489 120.649057361559,15.0850415809022</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">01</SimpleData>
+		<SimpleData name="area">19430</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">027</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="class">agri</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.650851615134,15.0904697334921 120.650818909113,15.090495012034 120.65080331443,15.0904746839695 120.650774964887,15.090437729611 120.650746528642,15.090400662219 120.650717234315,15.0903624762796 120.650689826624,15.0903267496064 120.650661315296,15.0902895842982 120.650631785163,15.0902510909339 120.65060293279,15.0902134810336 120.65057499355,15.0901770614144 120.650547985009,15.0901418549754 120.650519917733,15.0901052684295 120.650490196871,15.090066526369 120.650463199004,15.0900313338027 120.650439962598,15.090001044407 120.650411675906,15.0899641717916 120.650383826514,15.0899278691948 120.650352151439,15.0898865796799 120.650316777747,15.0898404688712 120.650310985633,15.0898329186518 120.650283490913,15.0897977078641 120.651634023138,15.0886704604416 120.651839603366,15.0888469659483 120.652216098698,15.0894151113218 120.652193403951,15.0894326524712 120.652157533044,15.0894603776834 120.652120318632,15.0894891412978 120.652083615143,15.0895175099974 120.652046098096,15.0895465074925 120.65201039138,15.0895741057421 120.651971062889,15.0896045032985 120.651936252294,15.089631408894 120.651900045726,15.0896593934422 120.651862671789,15.0896882802512 120.651824790952,15.0897175588343 120.651790755303,15.0897438654086 120.651755272505,15.0897712904901 120.651717641315,15.0898003760735 120.651682296602,15.089827694398 120.651645137236,15.089856415274 120.651608805456,15.0898844964852 120.651571897699,15.0899130228603 120.651535312654,15.089941299793 120.651514140731,15.0899576637697 120.651474371164,15.089988402024 120.651437085122,15.0900172207247 120.651401683414,15.0900445829939 120.651365664635,15.0900724221877 120.651329856696,15.090100098407 120.651293178049,15.0901284475891 120.651256522976,15.0901567785363 120.651220317347,15.0901847620905 120.651182675555,15.0902138556483 120.651145746141,15.0902423985904 120.651109217104,15.090270632065 120.651072611665,15.0902989245755 120.651036254647,15.0903270250664 120.650998668261,15.0903560757251 120.650960569356,15.0903855224966 120.650925260141,15.0904128130928 120.650888728986,15.0904410481158 120.650851615134,15.0904697334921</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">14</SimpleData>
+		<SimpleData name="area">203.5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">153</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.649441288094,15.0852715924977 120.649418183713,15.0852999101351 120.649404008234,15.0852842036107 120.649380520709,15.0852581792704 120.649356549981,15.0852316195291 120.649330897758,15.0852031966711 120.649305910357,15.0851755104313 120.649279774939,15.0851465521699 120.64925513942,15.0851192558011 120.649230152038,15.0850915695555 120.649205083591,15.0850637934799 120.649182129589,15.0850383602213 120.649157625434,15.0850112093697 120.649130624173,15.0849812916904 120.649098132599,15.0849452906725 120.649127131148,15.0849235038791 120.649151652272,15.084950673547 120.649154289218,15.0849535953116 120.649183759622,15.0849862488236 120.649211432602,15.0850169107587 120.649234982915,15.0850430047307 120.649259718957,15.0850704124932 120.649284742012,15.0850981382585 120.649308405444,15.0851243575424 120.649335927657,15.0851548523778 120.649360225917,15.0851817750387 120.649385399799,15.0852096678856 120.649409486466,15.0852363560827 120.649441288094,15.0852715924977</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">01</SimpleData>
+		<SimpleData name="area">36.716684</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">153</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.649418034713,15.0853000702308 120.649352879898,15.0853799264733 120.649326744188,15.0853502017215 120.649403859234,15.0852843637063 120.649418034713,15.0853000702308</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">36</SimpleData>
+		<SimpleData name="area">284.5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">158</SimpleData>
+		<SimpleData name="FID">305</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.653451468223,15.0843868011066 120.653424372139,15.0844115643551 120.65338498909,15.0843728545773 120.653358558833,15.0843468761482 120.653333034665,15.0843217883092 120.653307188916,15.0842963843789 120.653280549455,15.0842702002958 120.653254204583,15.084244305758 120.65322891979,15.0842194531702 120.653203730243,15.0841946941918 120.653177554227,15.0841689655988 120.653149928568,15.0841418121322 120.65312401561,15.0841163420837 120.653097447424,15.0840902279982 120.653072411671,15.0840656201453 120.653046458877,15.0840401109178 120.653020130199,15.0840142322212 120.652994568521,15.0839891074079 120.652959481977,15.0839546205019 120.652986331139,15.083929614625 120.653021514702,15.0839641968872 120.653047097307,15.0839893422654 120.653073323022,15.0840151197537 120.653099234875,15.0840405887374 120.65312426955,15.0840651955261 120.653150796594,15.0840912691692 120.653176771786,15.084116800384 120.653204376743,15.0841439334976 120.653230575412,15.084169684353 120.653255742696,15.0841944214441 120.653281089376,15.0842193348569 120.65330733124,15.0842451281435 120.653334011449,15.0842713522738 120.653359733087,15.0842966342113 120.653385381939,15.0843218445986 120.653411791433,15.0843478026165 120.653451468223,15.0843868011066</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">21</SimpleData>
+		<SimpleData name="area">809.7</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">143</SimpleData>
+		<SimpleData name="FID">311</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.653432432404,15.0855619501801 120.65340567517,15.085587677358 120.653282744972,15.0854680787085 120.65321091271,15.0854266098733 120.653204726246,15.0854205809035 120.653178467073,15.0853949902286 120.653127438293,15.0853452604997 120.653076987522,15.0852960940345 120.65305072838,15.0852705033489 120.652998728387,15.0852198270515 120.652944944811,15.0851674125378 120.6529186857,15.0851418218412 120.652867602827,15.0850920392361 120.652816104038,15.0850418512701 120.652843195054,15.0850170927344 120.652869973041,15.085043189129 120.652897970265,15.0850704737165 120.652924489222,15.0850963176561 120.652949070141,15.0851202728819 120.652975598107,15.085146125585 120.653001116571,15.0851709944751 120.653028176294,15.0851973653826 120.653054199525,15.0852227261737 120.653079267235,15.0852471557589 120.653105290477,15.0852725165458 120.653130817969,15.0852973941931 120.653158337495,15.0853242131556 120.653183882992,15.0853491083342 120.653210906773,15.0853754441547 120.653229357,15.0853934246779 120.653237071893,15.0853978784946 120.653273836738,15.0854191028763 120.653302780821,15.0854358123175 120.653315947054,15.0854486217385 120.65335462685,15.0854862532782 120.653406150991,15.0855363810427 120.653444167008,15.0854998284882 120.653483733441,15.0854617851798 120.653518525982,15.0854283319724 120.653544950694,15.0854029244643 120.653594399098,15.0853553795201 120.653636144398,15.0853152411312 120.653672066431,15.0852807018316 120.65369850559,15.085255280374 120.653752360467,15.0852034984584 120.653796882669,15.085160689956 120.653853740121,15.0851060209566 120.653893393907,15.0850678934249 120.654159893407,15.084811650762 120.654186102833,15.0848372890565 120.654035070344,15.0849825088555 120.653724790459,15.0852808461648 120.653432432404,15.0855619501801</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">42</SimpleData>
+		<SimpleData name="area">331.5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">143</SimpleData>
+		<SimpleData name="FID">317</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.653544950694,15.0854029244643 120.653518525982,15.0854283319724 120.653468703022,15.0853798105769 120.653439440884,15.0853513128629 120.653414477135,15.0853270012426 120.653389813095,15.0853029814936 120.653363313993,15.0852771746111 120.653337905115,15.0852524294655 120.653311275617,15.0852264955764 120.653286307207,15.085202179378 120.653259078343,15.0851756617626 120.653233872236,15.0851511140596 120.653208703402,15.0851266026485 120.653181445997,15.0851000572123 120.653156315668,15.0850755832842 120.653130175742,15.0850501261223 120.653104690494,15.08502530653 120.653077134723,15.0849984704869 120.653051538026,15.0849735423401 120.653026691379,15.0849493446451 120.652999147088,15.0849225197557 120.652973745856,15.0848977819454 120.653000836836,15.0848730233854 120.653025838444,15.0848973720062 120.653053340708,15.0849241559618 120.653078309587,15.0849484726914 120.65310406614,15.084973556515 120.653131339366,15.085000117389 120.653156948772,15.0850250578923 120.653182964524,15.0850503941206 120.653208341752,15.0850751084943 120.653235436849,15.0851014958581 120.653260849147,15.0851262443701 120.653285811798,15.0851505549716 120.653313119385,15.0851771492498 120.653338250601,15.0852016239979 120.653364717794,15.0852273998176 120.653390206838,15.0852522230311 120.653416748976,15.0852780718205 120.653441454584,15.0853021320476 120.653466577751,15.0853265989183 120.653495521547,15.085354786602 120.653544950694,15.0854029244643</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">59</SimpleData>
+		<SimpleData name="area">55.321771</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14175</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.647048684705,15.0881973300258 120.647080361431,15.0882363835228 120.647006158302,15.0882915493054 120.646974739311,15.0882518476748 120.647048684705,15.0881973300258</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">41</SimpleData>
+		<SimpleData name="area">44.049591</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14176</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646949303794,15.0882197068618 120.646974739311,15.0882518476748 120.646900976109,15.0883062309436 120.646876600464,15.0882744244721 120.646949303794,15.0882197068618</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">60</SimpleData>
+		<SimpleData name="area">45.463567</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14177</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.647023217835,15.0881640779947 120.647048684705,15.0881973300258 120.646974739311,15.0882518476748 120.646949303794,15.0882197068618 120.647023217835,15.0881640779947</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">62</SimpleData>
+		<SimpleData name="area">45.310449</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14181</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646970800225,15.0880982756228 120.64699626708,15.0881315276575 120.646923099563,15.0881865946761 120.646897683052,15.0881544778567 120.646970800225,15.0880982756228</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">38</SimpleData>
+		<SimpleData name="area">46.577236</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14182</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646871369022,15.088121226903 120.646897683052,15.0881544778567 120.646824901146,15.0882104223262 120.646797954368,15.0881775134516 120.646871369022,15.088121226903</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">63</SimpleData>
+		<SimpleData name="area">46.380674</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14183</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646944222432,15.088065370599 120.646970800225,15.0880982756228 120.646897683052,15.0881544778567 120.646871369022,15.088121226903 120.646944222432,15.088065370599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">36</SimpleData>
+		<SimpleData name="area">46.430264</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14186</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646818726909,15.0880547072021 120.646845003717,15.0880879111446 120.646772114596,15.0881446160805 120.646745905832,15.0881117148722 120.646818726909,15.0880547072021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">35</SimpleData>
+		<SimpleData name="area">87.22103</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14187</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646818726909,15.0880547072021 120.646745905832,15.0881117148722 120.646712776876,15.0880704948946 120.646707764831,15.0880564590263 120.646709025776,15.0880424883568 120.646719495916,15.0880300476369 120.646767542875,15.0879900299154 120.646818726909,15.0880547072021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">65</SimpleData>
+		<SimpleData name="area">46.633178</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14188</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646891455605,15.0879977717935 120.646917656488,15.0880313900211 120.646845003717,15.0880879111446 120.646818726909,15.0880547072021 120.646891455605,15.0879977717935</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">66</SimpleData>
+		<SimpleData name="area">89.430816</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14189</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646891455605,15.0879977717935 120.646818726909,15.0880547072021 120.646767542875,15.0879900299154 120.64681633571,15.0879493028163 120.64682857584,15.0879436930944 120.646843689021,15.0879452843985 120.646855414108,15.0879529359821 120.646891455605,15.0879977717935</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">03</SimpleData>
+		<SimpleData name="area">45.518946</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14192</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.646982022687,15.0886496001242 120.647007917241,15.088682003586 120.646935976257,15.0887370978096 120.646908782089,15.0887043058868 120.646982022687,15.0886496001242</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="PIN">32</SimpleData>
+		<SimpleData name="area">44.322114</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="SEC">215</SimpleData>
+		<SimpleData name="FID">14193</SimpleData>
+		<SimpleData name="class">res</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.647054795166,15.0885952439593 120.647080283133,15.0886265839009 120.647007917241,15.088682003586 120.646982022687,15.0886496001242 120.647054795166,15.0885952439593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
